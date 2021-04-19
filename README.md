@@ -4,6 +4,8 @@
 
 drive-video: https://drive.google.com/drive/u/1/folders/19B3td6qcvwM3243q_KGcUWriqMH_1vto
 
+link ερωτηματολογιου: https://docs.google.com/forms/d/e/1FAIpQLSdg15zs6ICAgmTchr4Fl9XrSc0bYy151wY5UQsEynU-GXiLfQ/viewform
+
 Ημερομηνία Παράδοσης: 13 Ιουνίου 2021 (έως 12μμ)
 
 Συνεργασία Μεταξύ Φοιτητών:
