@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T19:44:03.304Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="DFPUZzM3Ee1J-wXHIeBf" version="14.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T19:45:36.687Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="5O-Zv9FeGvYbMbulL6dz" version="14.7.1" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="868" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -110,10 +110,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RWvAmTKse4VGssmdLswm-34" value="&lt;font color=&quot;#cc6600&quot;&gt;&lt;b&gt;Προσθήκη πληροφορίας&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CC6600;" vertex="1" parent="1">
-          <mxGeometry x="725" y="414" width="110" height="55" as="geometry" />
+          <mxGeometry x="740" y="413" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="RWvAmTKse4VGssmdLswm-36" value="&lt;font color=&quot;#cc6600&quot;&gt;&lt;b&gt;Ανανέωση&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b&gt;&lt;font color=&quot;#cc6600&quot;&gt;Στοιχείων&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;color: rgb(204 , 102 , 0)&quot;&gt;σειράς/ταινίας&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#cc6600&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CC6600;" vertex="1" parent="1">
-          <mxGeometry x="720" y="278.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RWvAmTKse4VGssmdLswm-37" value="&lt;font color=&quot;#cc6600&quot;&gt;&lt;b&gt;Ανανέωση&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b&gt;&lt;font color=&quot;#cc6600&quot;&gt;Στοιχείων&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;color: rgb(204 , 102 , 0)&quot;&gt;ηθοπ./σκηνοθ.&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#cc6600&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CC6600;" vertex="1" parent="1">
           <mxGeometry x="715" y="346" width="120" height="60" as="geometry" />
@@ -145,6 +145,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="470" as="sourcePoint" />
             <mxPoint x="775" y="427.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RWvAmTKse4VGssmdLswm-47" value="&lt;b&gt;&lt;font color=&quot;#cc6600&quot;&gt;Εμφάνιση&lt;br&gt;Πληροφοριών&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="810" y="480" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="RWvAmTKse4VGssmdLswm-48" value="include" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wWb3bKXVYV8MI5Kypmh9-3" target="RWvAmTKse4VGssmdLswm-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="500" as="sourcePoint" />
+            <mxPoint x="740" y="529" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
