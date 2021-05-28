@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T22:19:46.890Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="zVZsGpsEGXhlEkxCZv5w" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T23:45:13.115Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="Nb296GciWygnmCamAYr2" version="14.7.2" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1736" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,6 +303,28 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="373.82" y="453" as="sourcePoint" />
             <mxPoint x="373.82" y="533.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N_ozV7aNFIMlH6nONhPh-88" value="&lt;b&gt;&lt;font color=&quot;#cc6600&quot;&gt;Ταυτοποίηση Χρήστη&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="424" y="1757" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="N_ozV7aNFIMlH6nONhPh-89" value="&lt;b&gt;&lt;font color=&quot;#cc6600&quot;&gt;Αγορά Ρούχων&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="218" y="1757" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="N_ozV7aNFIMlH6nONhPh-90" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N_ozV7aNFIMlH6nONhPh-89" target="N_ozV7aNFIMlH6nONhPh-88">
+          <mxGeometry x="-0.0417" y="-23" relative="1" as="geometry">
+            <mxPoint x="340" y="1760" as="sourcePoint" />
+            <mxPoint x="446" y="1849" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N_ozV7aNFIMlH6nONhPh-91" value="&lt;b&gt;&lt;font color=&quot;#cc6600&quot;&gt;Εγγραφή&lt;br&gt;Χρήστη&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="644" y="1757" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="N_ozV7aNFIMlH6nONhPh-92" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N_ozV7aNFIMlH6nONhPh-88" target="N_ozV7aNFIMlH6nONhPh-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="729.9999999999955" y="2059.91" as="sourcePoint" />
+            <mxPoint x="527" y="1941" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
