@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T21:56:44.878Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="b6hi17JtFRPsT9xec7h6" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-31T22:00:08.003Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="0j0gMOraMh-V4Wa-QzxR" version="14.7.3" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1736" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -847,7 +847,7 @@
           <mxGeometry x="5095" y="1410" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gn3s4t6lrNVimtiPesIL-121" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="5105" y="1505" width="10" height="895" as="geometry" />
+          <mxGeometry x="5105" y="1505" width="10" height="1065" as="geometry" />
         </mxCell>
         <mxCell id="Gn3s4t6lrNVimtiPesIL-122" value="authorization(user_password,user_email)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.218;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Gn3s4t6lrNVimtiPesIL-123">
           <mxGeometry relative="1" as="geometry">
@@ -878,7 +878,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Gn3s4t6lrNVimtiPesIL-127" value="ALT" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5105" y="2200" width="1095" height="200" as="geometry" />
+          <mxGeometry x="5105" y="2200" width="1095" height="250" as="geometry" />
         </mxCell>
         <mxCell id="Gn3s4t6lrNVimtiPesIL-132" value="&lt;font color=&quot;#cc6600&quot;&gt;&lt;b&gt;Authorization&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;verticalAlign=top;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;" vertex="1" parent="1">
           <mxGeometry x="5465" y="1335" width="100" height="875" as="geometry" />
@@ -992,6 +992,49 @@
         </mxCell>
         <mxCell id="Gn3s4t6lrNVimtiPesIL-152" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Gn3s4t6lrNVimtiPesIL-151">
           <mxGeometry x="45" y="47.5" width="10" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Gn3s4t6lrNVimtiPesIL-153" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="5835" y="2230" width="10" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="Gn3s4t6lrNVimtiPesIL-154" value="clickcheckbox(movie/series)" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="5118" y="2240" as="sourcePoint" />
+            <mxPoint x="5839.499999999999" y="2240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gn3s4t6lrNVimtiPesIL-155" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+          <mxGeometry x="0.267" relative="1" as="geometry">
+            <mxPoint x="5119.999999999999" y="2320" as="targetPoint" />
+            <mxPoint x="5834.999999999999" y="2320" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gn3s4t6lrNVimtiPesIL-156" value="addmovie(inputs_user)" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="5114.999999999999" y="2360" as="sourcePoint" />
+            <mxPoint x="5836.5" y="2360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gn3s4t6lrNVimtiPesIL-158" value="validateinput(inputs_userl)" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5846" y="2371" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="5876" y="2371" />
+            </Array>
+            <mxPoint x="5851" y="2391" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gn3s4t6lrNVimtiPesIL-159" value="error(no correct data input)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+          <mxGeometry x="0.267" relative="1" as="geometry">
+            <mxPoint x="5115" y="2420" as="targetPoint" />
+            <mxPoint x="5830" y="2420" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gn3s4t6lrNVimtiPesIL-160" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;[Add actor/derictor]&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5170" y="1888.57" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
