@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T12:44:30.241Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="9yvGuAsN5fe58kh7X3bK" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-01T12:44:50.197Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="vp5CXlwogCL8JdJmmNxe" version="14.7.3" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="723" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1737,7 +1737,7 @@
           <mxGeometry x="840" y="3880" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z_DgbobDbL0omlJn3vyS-74" value="" style="html=1;dropTarget=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="420" y="3890" width="260" height="130" as="geometry" />
+          <mxGeometry x="116" y="3970" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Z_DgbobDbL0omlJn3vyS-75" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="Z_DgbobDbL0omlJn3vyS-74">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -1745,10 +1745,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z_DgbobDbL0omlJn3vyS-76" value="«COMPONENT»&lt;br&gt;&lt;b&gt;Browser&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="3900" width="110" height="30" as="geometry" />
+          <mxGeometry x="176" y="3980" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z_DgbobDbL0omlJn3vyS-77" value="«COMPONENT»&lt;br&gt;&lt;b&gt;UI&lt;/b&gt;" style="html=1;dropTarget=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="472.5" y="3940" width="155" height="60" as="geometry" />
+          <mxGeometry x="168.5" y="4020" width="155" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z_DgbobDbL0omlJn3vyS-78" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="Z_DgbobDbL0omlJn3vyS-77">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
