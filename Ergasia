@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T09:02:38.630Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="m87_A17N3E0Q1v7BI6di" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T09:05:32.445Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="2BFrjPGeop7sJUOvW0MB" version="14.7.3" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="868" dy="1266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="1455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1685,8 +1685,8 @@
         <mxCell id="Gn3s4t6lrNVimtiPesIL-255" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;[&lt;/b&gt;&lt;b style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;sign in fail&lt;/b&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;]&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1741" y="3504.25" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z_DgbobDbL0omlJn3vyS-1" value="&lt;b&gt;&lt;font color=&quot;#cc6600&quot;&gt;Ενημέρωση για επόμενη σειρά/ταινία&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" parent="1" vertex="1">
-          <mxGeometry x="3140" y="2650" width="100" height="70" as="geometry" />
+        <mxCell id="Z_DgbobDbL0omlJn3vyS-1" value="&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#cc6600&quot;&gt;Παρακολούθηση&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#cc6600&quot;&gt;Αργότερα&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" parent="1" vertex="1">
+          <mxGeometry x="3140" y="2650" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Z_DgbobDbL0omlJn3vyS-2" value="&lt;font style=&quot;font-size: 9px&quot;&gt;&lt;b&gt;Θεατής/Χρήστης&lt;/b&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontColor=#0000FF;labelBorderColor=none;strokeColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="3175" y="2745" width="30" height="60" as="geometry" />
