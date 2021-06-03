@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T20:45:43.825Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="Nues1P8pW4Y6yKnawJR7" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-03T20:52:26.242Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="06nhw84YV9GSmvm5bloQ" version="14.7.3" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1240" dy="1455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -4050,7 +4050,7 @@
         <mxCell id="oElyPcyQurogJVaRTR2U-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="2260" y="1036.77" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oElyPcyQurogJVaRTR2U-10" value="clickInSerie()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;exitX=-0.071;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oElyPcyQurogJVaRTR2U-8" target="oElyPcyQurogJVaRTR2U-9">
+        <mxCell id="oElyPcyQurogJVaRTR2U-10" value="clickInListOfSeries(serie)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;exitX=-0.071;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oElyPcyQurogJVaRTR2U-8" target="oElyPcyQurogJVaRTR2U-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2190" y="1036.77" as="sourcePoint" />
           </mxGeometry>
