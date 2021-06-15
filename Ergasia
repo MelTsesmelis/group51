@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-15T13:07:43.787Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="grIVHNiDZZstxZKywlra" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-15T13:09:22.484Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="iMxBwSh89odOtVtVdhZV" version="14.7.7" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1240" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1292,7 +1292,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="La8gUNsQNi7aHKzZrnbc-122" value="addmovie(inputs_user)" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
+        <mxCell id="La8gUNsQNi7aHKzZrnbc-122" value="formToAdd(administrator_input)" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="823.9999999999991" y="1575" as="sourcePoint" />
             <mxPoint x="1545.5" y="1575" as="targetPoint" />
