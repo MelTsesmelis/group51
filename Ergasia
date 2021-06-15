@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-15T13:09:22.484Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="iMxBwSh89odOtVtVdhZV" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-15T13:12:27.038Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="vdtC62M_8Y6QXcMYlEj9" version="14.7.7" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1240" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1156,7 +1156,7 @@
           <mxGeometry x="804" y="930" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="La8gUNsQNi7aHKzZrnbc-86" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="814" y="1023" width="10" height="895" as="geometry" />
+          <mxGeometry x="814" y="1023" width="10" height="777" as="geometry" />
         </mxCell>
         <mxCell id="La8gUNsQNi7aHKzZrnbc-87" value="connection(password,email)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.218;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="La8gUNsQNi7aHKzZrnbc-88" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1190,7 +1190,7 @@
           <mxGeometry x="814" y="1415" width="1095" height="250" as="geometry" />
         </mxCell>
         <mxCell id="La8gUNsQNi7aHKzZrnbc-93" value="&lt;font color=&quot;#cc6600&quot;&gt;&lt;b&gt;Σύνδεση&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;verticalAlign=top;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1174" y="840" width="100" height="1080" as="geometry" />
+          <mxGeometry x="1174" y="840" width="100" height="960" as="geometry" />
         </mxCell>
         <mxCell id="La8gUNsQNi7aHKzZrnbc-94" value="authorization(user_password,user_email)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.218;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="La8gUNsQNi7aHKzZrnbc-93" target="La8gUNsQNi7aHKzZrnbc-95" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1247,7 +1247,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="La8gUNsQNi7aHKzZrnbc-105" value="&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#cc6600&quot;&gt;movie/series&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;verticalAlign=top;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1654" y="1312.5" width="105" height="607.5" as="geometry" />
+          <mxGeometry x="1654" y="1312.5" width="105" height="487.5" as="geometry" />
         </mxCell>
         <mxCell id="La8gUNsQNi7aHKzZrnbc-106" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="La8gUNsQNi7aHKzZrnbc-105" vertex="1">
           <mxGeometry x="45" y="47.5" width="10" height="42.5" as="geometry" />
@@ -1319,7 +1319,7 @@
           <mxGeometry x="879" y="1415" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="La8gUNsQNi7aHKzZrnbc-127" value="ALT" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="814" y="1665" width="1095" height="250" as="geometry" />
+          <mxGeometry x="814" y="1665" width="1095" height="135" as="geometry" />
         </mxCell>
         <mxCell id="La8gUNsQNi7aHKzZrnbc-128" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;[&lt;/b&gt;&lt;b style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;sign in fail&lt;/b&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;]&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="879" y="1663" width="160" height="30" as="geometry" />
