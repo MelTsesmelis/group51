@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-15T13:22:21.908Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="h1w3uFSh35LzW9tatr_d" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-15T13:24:52.591Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="dd8Y81zs4-sVSI1MtzCJ" version="14.7.7" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1240" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -3087,38 +3087,26 @@
         <mxCell id="oElyPcyQurogJVaRTR2U-25" value="ALT" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2010" y="1510" width="955" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="oElyPcyQurogJVaRTR2U-27" value="αναζήτηση(user_input)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;exitX=-0.002;exitY=0.212;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="oElyPcyQurogJVaRTR2U-25" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2605" y="1552.08" as="sourcePoint" />
-            <mxPoint x="2720.0000000000005" y="1551.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oElyPcyQurogJVaRTR2U-28" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2025" y="1627" as="targetPoint" />
-            <mxPoint x="2720.0000000000005" y="1627.25" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oElyPcyQurogJVaRTR2U-30" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="2260.71" y="1637.5" width="10" height="80" as="geometry" />
+          <mxGeometry x="2270.71" y="1548.13" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oElyPcyQurogJVaRTR2U-31" value="παρακολούθησηΑργότερα()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;exitX=-0.071;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2010.000000000001" y="1647.4500000000007" as="sourcePoint" />
-            <mxPoint x="2260.71" y="1647.5" as="targetPoint" />
+            <mxPoint x="2020.000000000001" y="1558.0800000000008" as="sourcePoint" />
+            <mxPoint x="2270.71" y="1558.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oElyPcyQurogJVaRTR2U-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="2872.5" y="1651.25" width="10" height="80" as="geometry" />
+          <mxGeometry x="2657.5" y="1560" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oElyPcyQurogJVaRTR2U-33" value="addWatchLater()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="1" target="oElyPcyQurogJVaRTR2U-32" edge="1">
+        <mxCell id="oElyPcyQurogJVaRTR2U-33" value="addSeeLater()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="1" target="oElyPcyQurogJVaRTR2U-32" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2275" y="1651.25" as="sourcePoint" />
+            <mxPoint x="2285" y="1561.88" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oElyPcyQurogJVaRTR2U-34" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="1" source="oElyPcyQurogJVaRTR2U-32" edge="1">
+        <mxCell id="oElyPcyQurogJVaRTR2U-34" value="addFail()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="1" source="oElyPcyQurogJVaRTR2U-32" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2025" y="1727.25" as="targetPoint" />
+            <mxPoint x="2035" y="1637.88" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oElyPcyQurogJVaRTR2U-35" value="authorization(user_password,user_email)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.218;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="oElyPcyQurogJVaRTR2U-36" edge="1">
@@ -3150,13 +3138,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oElyPcyQurogJVaRTR2U-40" value="ALT" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2010" y="1743.75" width="1095" height="250" as="geometry" />
+          <mxGeometry x="2010" y="1740.75" width="1095" height="250" as="geometry" />
         </mxCell>
         <mxCell id="oElyPcyQurogJVaRTR2U-41" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;[&lt;/b&gt;&lt;b style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;sign in fail&lt;/b&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;]&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2075" y="1741.75" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oElyPcyQurogJVaRTR2U-42" value="[&lt;b&gt;searchOneMovie&lt;/b&gt;]" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2075" y="1510" width="90" height="30" as="geometry" />
+        <mxCell id="oElyPcyQurogJVaRTR2U-42" value="[add to seeLater Fail]" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2075" y="1510" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mAbP3a49-tpMwpq4HJdP-4" value="infoHumanReadable" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry x="0.267" relative="1" as="geometry">
