@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-19T12:10:32.103Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="oZ7lmw3tfucMoFCZW8HV" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-19T12:11:03.175Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="1ZOSzBXzoApUtXhKbs8V" version="14.8.0" type="github">
   <diagram id="mvpipmfOTZVIbn2RnBfs" name="Page-1">
     <mxGraphModel dx="-4770" dy="-1740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,10 +23,10 @@
           <mxGeometry x="6446.75" y="2745.84" width="65" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zpBQGHldrdGLaz9oylC_-44" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Ταινία&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;movie_ID&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;title&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;premier:&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;storyline&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;director_name&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;actor_name&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;genre&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;avg_rating&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;alreadyExist()&lt;br&gt;nothingFound()&lt;br&gt;&lt;br&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="6860.75" y="2716.73" width="113.5" height="196.76" as="geometry" />
+          <mxGeometry x="6860.75" y="2570" width="113.5" height="196.76" as="geometry" />
         </mxCell>
         <mxCell id="zpBQGHldrdGLaz9oylC_-45" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Διαχειριστής&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;administrator_ID&lt;br&gt;&lt;span&gt;email&lt;br&gt;&lt;/span&gt;&lt;span&gt;password&lt;br&gt;&lt;/span&gt;&lt;span&gt;fullName&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;hr size=&quot;1&quot;&gt;login()&lt;span&gt;&lt;br&gt;create()&lt;br&gt;update()&lt;br&gt;&lt;/span&gt;&lt;span&gt;seeReferences()&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="6800" y="2400" width="130" height="190" as="geometry" />
+          <mxGeometry x="6580" y="2923" width="130" height="190" as="geometry" />
         </mxCell>
         <mxCell id="zpBQGHldrdGLaz9oylC_-46" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Επαγγελματίες&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;&lt;span&gt;fullName&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;birthday&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;country&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;website&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;filmography&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;nothingFound()&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;check_if_actor()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;check_if_director()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="6468.75" y="2494" width="130" height="168.59" as="geometry" />
@@ -82,7 +82,7 @@
         </mxCell>
         <mxCell id="zpBQGHldrdGLaz9oylC_-61" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="zpBQGHldrdGLaz9oylC_-39">
           <mxGeometry x="-1" y="3" relative="1" as="geometry">
-            <mxPoint x="6860" y="2864" as="sourcePoint" />
+            <mxPoint x="6880" y="2770" as="sourcePoint" />
             <mxPoint x="6410" y="2870" as="targetPoint" />
             <Array as="points">
               <mxPoint x="6534" y="2864" />
@@ -112,10 +112,10 @@
         <mxCell id="zpBQGHldrdGLaz9oylC_-67" value="0...Ν" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="6410" y="2550" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zpBQGHldrdGLaz9oylC_-72" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zpBQGHldrdGLaz9oylC_-46" target="zpBQGHldrdGLaz9oylC_-44">
+        <mxCell id="zpBQGHldrdGLaz9oylC_-72" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zpBQGHldrdGLaz9oylC_-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="6700" y="2650" as="sourcePoint" />
-            <mxPoint x="7058.75" y="2650.005" as="targetPoint" />
+            <mxPoint x="6860" y="2580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
