@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T08:36:27.651Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="sx6y1PFyYKdMoGwuCSIW" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T08:39:00.667Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="Ygj-1ZCyDe4ztaS4rKIO" version="14.8.0" type="github">
   <diagram id="9WWM62N5Ql0dgZ5ta1kR" name="Page-1">
     <mxGraphModel dx="192" dy="-661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -494,7 +494,7 @@
         <mxCell id="QNI6hyxtbEPQ3Ok379N0-102" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="1371" y="5320.25" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QNI6hyxtbEPQ3Ok379N0-103" value="clickInListOfMovieOrSeries(serie)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;exitX=-0.071;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="QNI6hyxtbEPQ3Ok379N0-101" target="QNI6hyxtbEPQ3Ok379N0-102" edge="1">
+        <mxCell id="QNI6hyxtbEPQ3Ok379N0-103" value="clickInMovie/Serie(Παρακολούθηση Αργότερα)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;exitX=-0.071;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="QNI6hyxtbEPQ3Ok379N0-101" target="QNI6hyxtbEPQ3Ok379N0-102" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1301" y="5320.25" as="sourcePoint" />
           </mxGeometry>
