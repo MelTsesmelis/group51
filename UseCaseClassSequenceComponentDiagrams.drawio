@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T09:02:42.216Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="voTUQjMdhbjoj690lnqs" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T09:05:37.337Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="euTdMro9C3otL-ueZjEK" version="14.8.0" type="github">
   <diagram id="9WWM62N5Ql0dgZ5ta1kR" name="Page-1">
     <mxGraphModel dx="192" dy="-661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -569,7 +569,7 @@
           <mxGeometry x="1137" y="6344.99" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QNI6hyxtbEPQ3Ok379N0-129" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="1147" y="6437.99" width="10" height="777" as="geometry" />
+          <mxGeometry x="1147" y="6437.99" width="10" height="852.01" as="geometry" />
         </mxCell>
         <mxCell id="QNI6hyxtbEPQ3Ok379N0-130" value="isAdministrator&lt;span style=&quot;text-align: left&quot;&gt;(password,email)&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.218;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="QNI6hyxtbEPQ3Ok379N0-131" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -605,35 +605,35 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QNI6hyxtbEPQ3Ok379N0-136" value="ALT" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1152.46" y="6910" width="1095" height="250" as="geometry" />
+          <mxGeometry x="1146.5" y="6900" width="1095" height="250" as="geometry" />
         </mxCell>
         <mxCell id="QNI6hyxtbEPQ3Ok379N0-137" value="&lt;font color=&quot;#cc6600&quot;&gt;&lt;b&gt;Σύνδεση&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;verticalAlign=top;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;" parent="1" vertex="1">
           <mxGeometry x="1507" y="6254.99" width="100" height="960" as="geometry" />
         </mxCell>
         <mxCell id="QNI6hyxtbEPQ3Ok379N0-138" value="isAdministrator&lt;span style=&quot;text-align: left&quot;&gt;(password,email)&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.218;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="QNI6hyxtbEPQ3Ok379N0-137" target="QNI6hyxtbEPQ3Ok379N0-139" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-354.54000000000093" y="940.01" as="sourcePoint" />
-            <mxPoint x="40.46" y="940.01" as="targetPoint" />
+            <mxPoint x="-360.5000000000009" y="930.01" as="sourcePoint" />
+            <mxPoint x="34.5" y="930.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QNI6hyxtbEPQ3Ok379N0-139" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="QNI6hyxtbEPQ3Ok379N0-137" vertex="1">
-          <mxGeometry x="50.46" y="940.01" width="10" height="75" as="geometry" />
+          <mxGeometry x="44.5" y="930.01" width="10" height="75" as="geometry" />
         </mxCell>
         <mxCell id="QNI6hyxtbEPQ3Ok379N0-140" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="QNI6hyxtbEPQ3Ok379N0-137" vertex="1">
-          <mxGeometry x="50.46" y="980.53" width="10" height="40" as="geometry" />
+          <mxGeometry x="44.5" y="970.53" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QNI6hyxtbEPQ3Ok379N0-141" value="&lt;span style=&quot;text-align: center&quot;&gt;checkIfAdministrator&lt;/span&gt;(password,email)" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="QNI6hyxtbEPQ3Ok379N0-137" target="QNI6hyxtbEPQ3Ok379N0-140" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55.45999999999909" y="960.53" as="sourcePoint" />
+            <mxPoint x="49.49999999999909" y="950.53" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="85.46" y="960.53" />
+              <mxPoint x="79.5" y="950.53" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QNI6hyxtbEPQ3Ok379N0-142" value="error(no correct input)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="QNI6hyxtbEPQ3Ok379N0-137" edge="1">
           <mxGeometry x="0.267" relative="1" as="geometry">
-            <mxPoint x="-344.54000000000093" y="1020.01" as="targetPoint" />
-            <mxPoint x="50.45999999999909" y="1020.01" as="sourcePoint" />
+            <mxPoint x="-350.5000000000009" y="1010.01" as="targetPoint" />
+            <mxPoint x="44.49999999999909" y="1010.01" as="sourcePoint" />
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
@@ -694,53 +694,53 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QNI6hyxtbEPQ3Ok379N0-153" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="1882.46" y="6940" width="10" height="205" as="geometry" />
+          <mxGeometry x="1876.5" y="6930" width="10" height="205" as="geometry" />
         </mxCell>
         <mxCell id="QNI6hyxtbEPQ3Ok379N0-154" value="clickcheckbox(option)" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="1165.46" y="6950" as="sourcePoint" />
-            <mxPoint x="1886.9599999999991" y="6950" as="targetPoint" />
+            <mxPoint x="1159.5" y="6940" as="sourcePoint" />
+            <mxPoint x="1880.999999999999" y="6940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QNI6hyxtbEPQ3Ok379N0-155" value="return&amp;nbsp; form to create" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry x="0.267" relative="1" as="geometry">
-            <mxPoint x="1167.4599999999991" y="7030" as="targetPoint" />
-            <mxPoint x="1882.4599999999991" y="7030" as="sourcePoint" />
+            <mxPoint x="1161.499999999999" y="7020" as="targetPoint" />
+            <mxPoint x="1876.499999999999" y="7020" as="sourcePoint" />
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QNI6hyxtbEPQ3Ok379N0-156" value="formToAdd(inputs)" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="1162.4599999999991" y="7070" as="sourcePoint" />
-            <mxPoint x="1883.96" y="7070" as="targetPoint" />
+            <mxPoint x="1156.499999999999" y="7060" as="sourcePoint" />
+            <mxPoint x="1878" y="7060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QNI6hyxtbEPQ3Ok379N0-157" value="validateInput(&lt;span style=&quot;text-align: center&quot;&gt;inputs&lt;/span&gt;)" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1893.46" y="7081" as="sourcePoint" />
+            <mxPoint x="1887.5" y="7071" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1923.46" y="7081" />
+              <mxPoint x="1917.5" y="7071" />
             </Array>
-            <mxPoint x="1898.46" y="7101" as="targetPoint" />
+            <mxPoint x="1892.5" y="7091" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QNI6hyxtbEPQ3Ok379N0-158" value="error(no correct data input)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry x="0.267" relative="1" as="geometry">
-            <mxPoint x="1162.46" y="7130" as="targetPoint" />
-            <mxPoint x="1877.4600000000005" y="7130" as="sourcePoint" />
+            <mxPoint x="1156.5" y="7120" as="targetPoint" />
+            <mxPoint x="1871.5000000000005" y="7120" as="sourcePoint" />
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QNI6hyxtbEPQ3Ok379N0-159" value="&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;[&lt;/font&gt;&lt;span style=&quot;text-align: center ; background-color: rgb(255 , 255 , 255)&quot;&gt;no correct data input&lt;/span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;]&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1217.46" y="6910" width="160" height="30" as="geometry" />
+          <mxGeometry x="1211.5" y="6900" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QNI6hyxtbEPQ3Ok379N0-160" value="ALT" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1151.96" y="7160" width="1095" height="135" as="geometry" />
+          <mxGeometry x="1146" y="7150" width="1095" height="135" as="geometry" />
         </mxCell>
         <mxCell id="QNI6hyxtbEPQ3Ok379N0-161" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;[log&lt;/b&gt;&lt;b style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;in fail&lt;/b&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;]&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1217.46" y="7158" width="160" height="30" as="geometry" />
+          <mxGeometry x="1211.5" y="7148" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QNI6hyxtbEPQ3Ok379N0-162" value="&lt;div&gt;&lt;font color=&quot;#cc6600&quot;&gt;&lt;b&gt;Σκηνοθέτης&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;verticalAlign=top;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;" parent="1" vertex="1">
           <mxGeometry x="1992.46" y="6715" width="100" height="310" as="geometry" />
@@ -1125,34 +1125,6 @@
         </mxCell>
         <mxCell id="wFhEKX_If3gaTOb_8-wP-10" value="&lt;font color=&quot;#cc6600&quot;&gt;&lt;b&gt;MAIN&lt;br&gt;PAGE&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;verticalAlign=top;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;" vertex="1" parent="1">
           <mxGeometry x="1671" y="6254.99" width="100" height="960" as="geometry" />
-        </mxCell>
-        <mxCell id="wFhEKX_If3gaTOb_8-wP-11" value="isAdministrator&lt;span style=&quot;text-align: left&quot;&gt;(password,email)&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.218;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wFhEKX_If3gaTOb_8-wP-10" target="wFhEKX_If3gaTOb_8-wP-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-354.54000000000093" y="940.01" as="sourcePoint" />
-            <mxPoint x="40.46" y="940.01" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wFhEKX_If3gaTOb_8-wP-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="wFhEKX_If3gaTOb_8-wP-10">
-          <mxGeometry x="50.46" y="940.01" width="10" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="wFhEKX_If3gaTOb_8-wP-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="wFhEKX_If3gaTOb_8-wP-10">
-          <mxGeometry x="50.46" y="980.53" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wFhEKX_If3gaTOb_8-wP-14" value="&lt;span style=&quot;text-align: center&quot;&gt;checkIfAdministrator&lt;/span&gt;(password,email)" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="wFhEKX_If3gaTOb_8-wP-10" target="wFhEKX_If3gaTOb_8-wP-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55.45999999999909" y="960.53" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="85.46" y="960.53" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wFhEKX_If3gaTOb_8-wP-15" value="error(no correct input)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="wFhEKX_If3gaTOb_8-wP-10">
-          <mxGeometry x="0.267" relative="1" as="geometry">
-            <mxPoint x="-344.54000000000093" y="1020.01" as="targetPoint" />
-            <mxPoint x="50.45999999999909" y="1020.01" as="sourcePoint" />
-            <Array as="points" />
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="wFhEKX_If3gaTOb_8-wP-16" value="click:ΠΡΟΣΘΗΚΗ ΠΛΗΡΟΦΟΡΙΑΣ" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.218;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="wFhEKX_If3gaTOb_8-wP-17">
           <mxGeometry relative="1" as="geometry">
