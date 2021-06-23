@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T08:59:31.976Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="C0W_o6eqfCHNdqBz6IKJ" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T09:00:27.166Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="worXfb8_blHw3dltWIk4" version="14.8.0" type="github">
   <diagram id="9WWM62N5Ql0dgZ5ta1kR" name="Page-1">
     <mxGraphModel dx="192" dy="-661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -644,10 +644,10 @@
         <mxCell id="QNI6hyxtbEPQ3Ok379N0-144" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="QNI6hyxtbEPQ3Ok379N0-143" vertex="1">
           <mxGeometry x="50.46" y="365.01" width="10" height="205" as="geometry" />
         </mxCell>
-        <mxCell id="QNI6hyxtbEPQ3Ok379N0-145" value="clickCheckBox(option)" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
+        <mxCell id="QNI6hyxtbEPQ3Ok379N0-145" value="Διαλέγει τι θέλει να προσθέσει : clickCheckBox(option)" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="1165.46" y="6638" as="sourcePoint" />
-            <mxPoint x="1878.46" y="6638" as="targetPoint" />
+            <mxPoint x="1165.46" y="6637" as="sourcePoint" />
+            <mxPoint x="1878.46" y="6637" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QNI6hyxtbEPQ3Ok379N0-146" value="return&amp;nbsp; form to create" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
